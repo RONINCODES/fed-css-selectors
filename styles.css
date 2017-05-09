@@ -24,3 +24,10 @@ header {
 .item {
   border: 5px 5px 5px 5px
 }
+.even {
+  background-color: grey;
+}
+
+.odd {
+  background-color: black;
+  color: white;

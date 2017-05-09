@@ -16,3 +16,11 @@ h2 {
 header {
   border-bottom: 5px solid black
 }
+
+.class-list {
+  list-style: square;
+}
+
+.item {
+  border: 5px 5px 5px 5px
+}
